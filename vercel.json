@@ -1,5 +1,10 @@
 {
-    "version": 2,
+    "builds": [
+        {
+            "src": "build/**",
+            "use": "@vercel/static"
+        }
+    ],
     "routes": [
         {
             "src": "/static/css/(.*)",
@@ -24,10 +29,6 @@
         {
             "src": "/robots.txt",
             "dest": "build/robots.txt"
-        },
-        {
-            "src": "/(.*)",
-            "dest": "build/index.html"
         }
     ]
 }
