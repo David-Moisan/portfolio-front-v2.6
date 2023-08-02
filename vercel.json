@@ -3,27 +3,27 @@
     "routes": [
         {
             "src": "/static/css/(.*)",
-            "dest": "client/build/static/css/$1"
+            "dest": "build/static/css/$1"
         },
         {
             "src": "/static/js/(.*)",
-            "dest": "client/build/static/js/$1"
+            "dest": "build/static/js/$1"
         },
         {
             "src": "/static/media/(.*)",
-            "dest": "client/build/static/media/$1"
+            "dest": "build/static/media/$1"
         },
         {
             "src": "/favicon.ico",
-            "dest": "client/build/favicon.ico"
+            "dest": "build/favicon.ico"
         },
         {
             "src": "/manifest.json",
-            "dest": "client/build/manifest.json"
+            "dest": "build/manifest.json"
         },
         {
             "src": "/robots.txt",
-            "dest": "client/build/robots.txt"
+            "dest": "build/robots.txt"
         }
     ]
 }
