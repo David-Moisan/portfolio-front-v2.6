@@ -1,0 +1,49 @@
+{
+    "version": 2,
+    "routes": [
+        {
+            "src": "/static/css/(.*)",
+            "dest": "client/build/static/css/$1"
+        },
+        {
+            "src": "/static/js/(.*)",
+            "dest": "client/build/static/js/$1"
+        },
+        {
+            "src": "/static/media/(.*)",
+            "dest": "client/build/static/media/$1"
+        },
+        {
+            "src": "/favicon.ico",
+            "dest": "client/build/favicon.ico"
+        },
+        {
+            "src": "/manifest.json",
+            "dest": "client/build/manifest.json"
+        },
+        {
+            "src": "/robots.txt",
+            "dest": "client/build/robots.txt"
+        },
+        {
+            "src": "/blog",
+            "dest": "server/index.js"
+        },
+        {
+            "src": "/blog/:slug",
+            "dest": "server/index.js"
+        },
+        {
+            "src": "/project",
+            "dest": "server/index.js"
+        },
+        {
+            "src": "/project/:id",
+            "dest": "server/index.js"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "client/build/index.html"
+        }
+    ]
+}
