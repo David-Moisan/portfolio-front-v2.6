@@ -1,0 +1,233 @@
+/*
+          object-assign
+          (c) Sindre Sorhus
+          @license MIT
+          */
+
+/*
+      object-assign
+      (c) Sindre Sorhus
+      @license MIT
+      */
+
+/*!
+ * TagCloud.js v2.3.0
+ * Copyright (c) 2016-2022 @ Cong Min
+ * MIT License - https://github.com/mcc108/TagCloud
+ */
+
+/*! ./Component */
+
+/*! ./Context */
+
+/*! ./checkPropTypes */
+
+/*! ./cjs/react-is.development.js */
+
+/*! ./factoryWithTypeCheckers */
+
+/*! ./lib/ReactPropTypesSecret */
+
+/*! ./lib/has */
+
+/*! ./mediaQuery */
+
+/*! ./toQuery */
+
+/*! ./useMediaQuery */
+
+/*! css-mediaquery */
+
+/*! hyphenate-style-name */
+
+/*! matchmediaquery */
+
+/*! object-assign */
+
+/*! prop-types */
+
+/*! react */
+
+/*! react-is */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*! shallow-equal */
+
+/*!**********************!*\
+          !*** ./src/index.ts ***!
+          \**********************/
+
+/*!************************!*\
+          !*** ./src/Context.ts ***!
+          \************************/
+
+/*!************************!*\
+          !*** ./src/toQuery.ts ***!
+          \************************/
+
+/*!**************************!*\
+          !*** ./src/Component.ts ***!
+          \**************************/
+
+/*!***************************!*\
+          !*** ./src/mediaQuery.ts ***!
+          \***************************/
+
+/*!******************************!*\
+          !*** ./src/useMediaQuery.ts ***!
+          \******************************/
+
+/*!****************************************!*\
+          !*** ./node_modules/react-is/index.js ***!
+          \****************************************/
+
+/*!******************************************!*\
+          !*** ./node_modules/prop-types/index.js ***!
+          \******************************************/
+
+/*!********************************************!*\
+          !*** ./node_modules/prop-types/lib/has.js ***!
+          \********************************************/
+
+/*!*********************************************!*\
+          !*** ./node_modules/object-assign/index.js ***!
+          \*********************************************/
+
+/*!**********************************************!*\
+          !*** ./node_modules/css-mediaquery/index.js ***!
+          \**********************************************/
+
+/*!***********************************************!*\
+          !*** ./node_modules/matchmediaquery/index.js ***!
+          \***********************************************/
+
+/*!***************************************************!*\
+          !*** ./node_modules/prop-types/checkPropTypes.js ***!
+          \***************************************************/
+
+/*!****************************************************!*\
+          !*** ./node_modules/hyphenate-style-name/index.js ***!
+          \****************************************************/
+
+/*!******************************************************!*\
+          !*** ./node_modules/shallow-equal/dist/index.esm.js ***!
+          \******************************************************/
+
+/*!***********************************************************!*\
+          !*** ./node_modules/react-is/cjs/react-is.development.js ***!
+          \***********************************************************/
+
+/*!************************************************************!*\
+          !*** ./node_modules/prop-types/factoryWithTypeCheckers.js ***!
+          \************************************************************/
+
+/*!*************************************************************!*\
+          !*** ./node_modules/prop-types/lib/ReactPropTypesSecret.js ***!
+          \*************************************************************/
+
+/*!**************************************************************************************!*\
+          !*** external {"commonjs":"react","commonjs2":"react","amd":"react","root":"React"} ***!
+          \**************************************************************************************/
+
+/**
+ * @license
+ * Copyright 2010-2023 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.7.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router DOM v6.14.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.14.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+* @link https://github.com/gajus/sister for the canonical source repository
+* @license https://github.com/gajus/sister/blob/master/LICENSE BSD 3-Clause
+*/
+
+/** @license React v16.13.1
+           * react-is.development.js
+           *
+           * Copyright (c) Facebook, Inc. and its affiliates.
+           *
+           * This source code is licensed under the MIT license found in the
+           * LICENSE file in the root directory of this source tree.
+           */
+
+/** @license React v16.3.2
+       * react.production.min.js
+       *
+       * Copyright (c) 2013-present, Facebook, Inc.
+       *
+       * This source code is licensed under the MIT license found in the
+       * LICENSE file in the root directory of this source tree.
+       */
