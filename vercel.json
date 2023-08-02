@@ -24,26 +24,6 @@
         {
             "src": "/robots.txt",
             "dest": "client/build/robots.txt"
-        },
-        {
-            "src": "/blog",
-            "dest": "server/index.js"
-        },
-        {
-            "src": "/blog/:slug",
-            "dest": "server/index.js"
-        },
-        {
-            "src": "/project",
-            "dest": "server/index.js"
-        },
-        {
-            "src": "/project/:id",
-            "dest": "server/index.js"
-        },
-        {
-            "src": "/(.*)",
-            "dest": "client/build/index.html"
         }
     ]
 }
