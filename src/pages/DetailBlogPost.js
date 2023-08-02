@@ -25,7 +25,7 @@ export default function DetailBlogPostPage()
 
     useEffect(() => {
         axios
-          .get(`http://localhost:3001/blog/${id}`)
+          .get(`https://portfolio-back-v26-production.up.railway.app/blog/${id}`)
           .then((response) => {
             console.log(response.data);
             setBlog(response.data);

@@ -10,7 +10,7 @@ export default function ProjectListPage()
     const [error, setError] = useState(false);
 
     useEffect(() => {
-        axios.get('http://localhost:3001/project')
+        axios.get('https://portfolio-back-v26-production.up.railway.app/project')
             .then((response) => {
                 setProjects(response.data)
                 setLoading(false);

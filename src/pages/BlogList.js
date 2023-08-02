@@ -11,7 +11,7 @@ export default function BlogListPage()
     const [error, setError] = useState(false);
 
     useEffect(() => {
-        axios.get('http://localhost:3001/blog')
+        axios.get('https://portfolio-back-v26-production.up.railway.app/blog')
             .then((response) => {
                 setBlog(response.data);
                 setLoading(false);

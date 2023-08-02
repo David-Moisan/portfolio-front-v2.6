@@ -35,7 +35,7 @@ export default function DetailProjectPage() {
     }
 
     useEffect(() => {
-        axios.get(`http://localhost:3001/project/${id}`)
+        axios.get(`https://portfolio-back-v26-production.up.railway.app/project/${id}`)
             .then((response) => {
                 setProject(response.data)
                 setLoading(false)
