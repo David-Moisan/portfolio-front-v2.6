@@ -27,7 +27,6 @@ export default function DetailBlogPostPage()
         axios
           .get(`https://portfolio-back-v26-production.up.railway.app/blog/${id}`)
           .then((response) => {
-            console.log(response.data);
             setBlog(response.data);
             setLoading(false);
           })
